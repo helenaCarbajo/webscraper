@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 .idea
 .vagrant
 **/node_modules
+=======
+node_modules
+.vagrant
+>>>>>>> e71d8807d8fd83eb3dca456afd7d14b24f58ffbe

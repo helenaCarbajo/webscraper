@@ -30,9 +30,13 @@
     "bitwise": true,
     "latedef": true,
     "nonbsp": true,
+<<<<<<< HEAD
     "quotmark": "double",
     "esversion": 6,
     "esnext": true,
     "es6": true,
     "es2015":true
+=======
+    "quotmark": "double"
+>>>>>>> 4b3356ae3edc53bd409f690ffcf0fda3611599d4
 }
